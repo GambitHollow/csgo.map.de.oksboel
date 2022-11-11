@@ -1,0 +1,10 @@
+COMMUNITYMAPCREDITS:
+Gambithollow
+
+RULESHERE:
+
+Bomb Scenario
+
+#SFUI_Rules_<gamemode>_Loading
+
+Notes
